@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\bin\Debug\chatBot02_POE_Part 2.exe.config
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\bin\Debug\chatBot02_POE_Part 2.exe
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\bin\Debug\chatBot02_POE_Part 2.pdb
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\obj\Debug\chatBot02_POE_Part 2.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\obj\Debug\chatBot02_POE_Part 2.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\obj\Debug\chatBot02_POE_Part 2.exe
+C:\Users\RC_Student_lab\Documents\GitHub\c-poe-ST10447914\chatBot02_POE_Part 2\obj\Debug\chatBot02_POE_Part 2.pdb
